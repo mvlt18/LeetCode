@@ -1,5 +1,5 @@
 """
-Leetcode: 1. Two Sum
+LeetCode Problem 1: Two Sum
 Difficulty: Easy
 URL: https://leetcode.com/problems/two-sum/
 Tags: Array, Hash Table
